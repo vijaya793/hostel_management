@@ -173,7 +173,7 @@ class StudentLogin:
         self.user_name_entry.delete(0, END)
         self.user_pass_entry.delete(0, END)
         self.user_name_entry.insert(0, "Enter Student Username")
-        self.user_pass_entry.insert(0, "Enter Password")
+        self.user_pass_entry.insert(0, "Enter password")
 
 
 
