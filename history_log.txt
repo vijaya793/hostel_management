@@ -1,0 +1,3 @@
+2025-02-07 17:54:36 | ADD | Hostel: Manasa | Room: 104 | Beds: 1
+2025-02-07 18:37:29 | ADD | Hostel: Padmavathi | Room: 112 | Beds: 3
+2025-02-07 18:41:06 | DELETE | Hostel: sarada | Room: 204 | Beds: 0
